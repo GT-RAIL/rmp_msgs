@@ -2,7 +2,8 @@ Original Authors
 ----------------
 
  * [Chris Dunkers](cmdunkers@wpi.edu)
- * [Russell Toris](rctoris@wpi.edu)
 
 Contributors
 ------------
+
+ * [Russell Toris](rctoris@wpi.edu)
