@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>rmp_msgs</name>
-  <version>0.0.0</version>
+  <version>0.0.1</version>
   <description>ROS Messages for the Segway RMP</description>
 
   <author email="cmdunkers@wpi.edu">Chris Dunkers</author>
