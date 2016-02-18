@@ -1,4 +1,4 @@
-rmp_msgs [![Build Status](https://api.travis-ci.org/WPI-RAIL/rmp_msgs.png)](https://travis-ci.org/WPI-RAIL/rmp_msgs)
+rmp_msgs [![Build Status](https://api.travis-ci.org/GT-RAIL/rmp_msgs.png)](https://travis-ci.org/GT-RAIL/rmp_msgs)
 ========
 
 #### ROS Messages for the Segway RMP 
