@@ -6,10 +6,11 @@
 
   <author email="cmdunkers@wpi.edu">Chris Dunkers</author>
   <maintainer email="rctoris@wpi.edu">Russell Toris</maintainer>
+  <maintainer email="dekent@gatech.edu">David Kent</maintainer>
   
   <url type="website">http://ros.org/wiki/rmp_msgs</url>
-  <url type="bugtracker">https://github.com/WPI-RAIL/rmp_msgs/issues</url>
-  <url type="repository">https://github.com/WPI-RAIL/rmp_msgs</url>
+  <url type="bugtracker">https://github.com/GT-RAIL/rmp_msgs/issues</url>
+  <url type="repository">https://github.com/GT-RAIL/rmp_msgs</url>
 
   <license>BSD</license>
 
